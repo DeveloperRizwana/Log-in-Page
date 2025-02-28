@@ -21,7 +21,8 @@ h1 {
 }
 .container {
     height: 500px;
-    width: 35%;
+    width: 60%;
+    display: flex;
     margin: 4rem;
     padding-left: 3rem;
     border-radius: 10px;
@@ -78,6 +79,15 @@ label {
     padding-right: 5rem;
     font-size: 0.9rem;
     margin: 1rem;
+}
+.image{
+    margin-top: 2rem;
+    margin-right: 1rem;
+    width: 100%;
+}
+.login{
+    margin-left: 1rem;
+    width: 100%;
 }
 
  #p{
