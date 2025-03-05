@@ -1,4 +1,4 @@
-# **Login & Registration Page Documentation**
+# **Project Documentation: Login & Registration Page**
 
 ## **1. Project Overview**
 
