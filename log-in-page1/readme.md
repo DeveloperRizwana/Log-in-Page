@@ -80,7 +80,7 @@ This project provides a **basic yet functional** login and registration page usi
 
 ## ✨ Developed by:
 
-- **Devang** - [devang@gmail.com](mailto:devang@gmail.com)
+**Devang Sandeep Raut** - [rautdevang43@gmail.com](mailto:rautdevang43@gmail.com)
 - **Rizwana Perween** - [dev.rizwana.perween01@gmail.com](mailto:dev.rizwana.perween01@gmail.com)
 - **Omkar Somnath Jagdhane** - [ojagdhane1@gmail.com](mailto:ojagdhane1@gmail.com)
 - **Sukshma Arun Chavhan** - [sukshmachavan2005@gmail.com](mailto:sukshmachavan2005@gmail.com)
